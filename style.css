@@ -1,0 +1,53 @@
+/* This is a comment */
+
+/* Style for the body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+/* Style for headings */
+h1 {
+    color: #333;
+    text-align: center;
+}
+
+/* Style for paragraphs */
+p {
+    color: #666;
+    line-height: 1.6;
+}
+
+/* Class selector for a container */
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+/* ID selector for a main header */
+#main-header {
+    background-color: #333;
+    color: #fff;
+    padding-top: 30px;
+    min-height: 70px;
+    border-bottom: #0779e4 3px solid;
+}
+
+/* Style for links */
+a {
+    color: #333;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #0779e4;
+}
+
+/* Style for images */
+img {
+    max-width: 100%;
+    height: auto;
+}
